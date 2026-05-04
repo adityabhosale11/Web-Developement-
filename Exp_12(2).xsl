@@ -6,7 +6,7 @@
 
 <html> 
          <body> 
-            <h2>Students</h2> 
+            <h2>Students</h2>  
 				
             <table border = "1"> 
                <tr bgcolor = "#9acd32"> 
