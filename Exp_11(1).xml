@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="style.css"?>
 
 <library>
-  <book id="001">
+  <book id="001"> 
     <title>Structure and Interpretation of Computer Programs (SICP)</title>
     <author>Abelson, Sussman, Sussman</author>
     <year>1984</year>
